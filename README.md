@@ -74,27 +74,27 @@ D →    右方向に移動
 
 標準出力にはカウントされた歩数などのデバッグ情報が出力されます。<br>
 
-> Move count : 1
-Move count : 2
-Move count : 3
-Move count : 4
- There is a wall.
- The player can't move right!
-Move count : 5
-Move count : 6
-Move count : 7
-Move count : 8
-Move count : 9
-Move count : 10
-Move count : 11
-Move count : 12
-Move count : 13
-Move count : 14
- There is a wall.
- The player can't move down!
-Move count : 15
-Move count : 16
-Move count : 17
-Move count : 18
- The game is closed!
+> Move count : 1<br>
+Move count : 2<br>
+Move count : 3<br>
+Move count : 4<br>
+ There is a wall.<br>
+ The player can't move right!<br>
+Move count : 5<br>
+Move count : 6<br>
+Move count : 7<br>
+Move count : 8<br>
+Move count : 9<br>
+Move count : 10<br>
+Move count : 11<br>
+Move count : 12<br>
+Move count : 13<br>
+Move count : 14<br>
+ There is a wall.<br>
+ The player can't move down!<br>
+Move count : 15<br>
+Move count : 16<br>
+Move count : 17<br>
+Move count : 18<br>
+ The game is closed!<br>
 
